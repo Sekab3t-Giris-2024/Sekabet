@@ -1,14 +1,14 @@
-#  <a href=" https://sekabet1380.com">Sekabet.com</a>
+#  <a href="https://sekabet1380.com">Sekabet.com</a>
 
-#  <a href=" https://sekabet1380.com">GİRİŞ İÇİN TIKLAYINIZ</a>
+#  <a href="https://sekabet1380.com">GİRİŞ İÇİN TIKLAYINIZ</a>
 
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
-<a href=" https://sekabet1380.com" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/U4T09.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href=" https://sekabet1380.com">
+<a href="https://sekabet1380.com" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/U4T09.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://sekabet1380.com">
     <img src="https://r.resimlink.com/U4T09.png" />
 </a>
 </a>
